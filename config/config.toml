@@ -10,9 +10,9 @@
     UserDesc = "长得非常帅的程序员"
 [system]
     CdnURL = "https://static.mszlu.com/goblog/es6/md-assets"
-    QiniuAccessKey = "替换自己的"
-    QiniuSecretKey = "替换自己的"
+    QiniuAccessKey = "2ATmGa13dBIqoRmXl_hej4K4_m_dIgtWcArmyPCQ"
+    QiniuSecretKey = "Iypf1tl1Eyvz9BWCeYoS54quSny1Gv6-76qSXlGe"
     Valine = true
-    ValineAppid = "替换自己的"
-    ValineAppkey = "替换自己的"
-    ValineServerURL = "替换自己的"
+    ValineAppid = "RJWBL9ryA9XrBEeBRAvujoXX-gzGzoHsz"
+    ValineAppkey = "GwCe4MTuy8GaRwcF4l0Fehci"
+    ValineServerURL = "https://rjwbl9ry.lc-cn-n1-shared.com"
